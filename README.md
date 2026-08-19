@@ -1,5 +1,8 @@
-﻿ # PROJETO-PADARIA-SENAI
+﻿ # PADARIA ONLINE - SENAI
 
 # MEMBROS - FRONT-END
-
-Wingrid Nicolly - Front-End chief leader
+<ul>
+  <li>
+    Wingrid Nicolly - Front-End chief leader
+  </li>
+</ul>
