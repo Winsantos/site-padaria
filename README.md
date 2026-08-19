@@ -2,8 +2,8 @@
 
   ## SOBRE O REPOSITÓRIO
 
-  <p>Esse repositório serve como base a armazenamento de scripts e arquivos do projeto </p>
-
+  <p>Esse repositório serve como base para armazenamento de scripts e arquivos do projeto. É de suma importância que os colaboradores do mesmo trabalhem de forma organizada e respeitando seus companheiros </p>
+  
   ## SOBRE O PROJETO
 
   <p></p>
