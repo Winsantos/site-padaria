@@ -1,5 +1,13 @@
 ﻿ # PADARIA ONLINE - SENAI
 
+  ## SOBRE O REPOSITÓRIO
+
+  <p>Esse repositório serve como base a armazenamento de scripts e arquivos do projeto </p>
+
+  ## SOBRE O PROJETO
+
+  <p></p>
+  
 # MEMBROS - FRONT-END
 <ul>
   <li>
