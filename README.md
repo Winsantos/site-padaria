@@ -6,7 +6,7 @@
   
   ## SOBRE O PROJETO
 
-  <p></p>
+  <p>Diante da necessidade de modernização </p>
   
 # MEMBROS - FRONT-END
 <ul>
@@ -14,12 +14,18 @@
     Wingrid Nicolly - Front-End chief leader | Graphics design
   </li>
   <li>
-    William Davidson - Front-End Engeneer
+    William Davidson - Front-End engeneer
   </li>
   <li>
     Joknean - Front-End Engeneer
   </li>
   <li>
-    João Victor Araújo - Front-End Engeneer
+    João Victor Araújo - Front-End engeneer
+  </li>
+  <li>
+    Alan Kauê - Front-End engeneer
+  </li>
+  <li>
+    Micael - Front-End engeneer
   </li>
 </ul>
